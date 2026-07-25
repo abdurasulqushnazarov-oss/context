@@ -44,6 +44,11 @@ body {
   border-bottom: 1px solid var(--border-color);
 }
 
+.logo {
+  font-size: 302px;
+  color: blue;
+}
+
 .links {
   display: flex;
   gap: 15px;
