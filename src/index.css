@@ -44,9 +44,11 @@ body {
   border-bottom: 1px solid var(--border-color);
 }
 
-.logo {
-  font-size: 302px;
+.logo a {
+  text-decoration: none;
+  font-size: 32px;
   color: blue;
+  font-weight: 700;
 }
 
 .links {
